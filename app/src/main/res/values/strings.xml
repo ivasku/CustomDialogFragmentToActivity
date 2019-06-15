@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CustomFragmentDialog</string>
+
+    <string name="username">Please enter the UserName</string>
+    <string name="password">Please enter your password</string>
+
+    <string name="opendialog">Open Dialog</string>
+
+    <string name="passworddialog">Password</string>
+    <string name="userdialog">Username</string>
+
+
+</resources>
